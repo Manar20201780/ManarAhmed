@@ -1,0 +1,30 @@
+<html>
+
+<head>
+    <title> Manar </title>
+</head>
+<body>
+<!--start nav-->
+<a href="#"target="_blank">Home</a>
+<a href="#"target="_blank">Student List</a>
+<a href="#"target="_blank">New Student</a>
+<!-- end nav-->
+<!--start section-->
+<hr>
+
+<h1> Name: Manar Ahmed Fawzy &#128517; </h1>
+<h2> ID: 20201780</h2>
+<h3> Email: 20201780@fue.edu.eg</h3>
+<h4> Major: Computer Science </h4>
+<h5></h5>
+<h6> Level 2 Term 1 </h6>
+<h8> FOR MORE INFORMATION &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &#10507; </h8>
+
+<!--end section-->
+<hr>
+
+<!--start footer-->
+    <a href="#"target="_self">&copy; Future University in Egypt &nbsp; &mdash; &nbsp; Contact Us</a>
+
+    </body>
+    </html>
