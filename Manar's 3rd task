@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <title>Manar - Home Page</title>
+    </head>
+    <body>
+
+        <nav>
+            <ul>
+                <li ><a href="index.html"  >Home</a></li>
+                <li ><a href="studentlist.html" >Students List</a></li>
+                <li ><a href="new_student.html" class="active">New Student</a></li>
+        
+                <li class="nav-right"><a href="sign.html">Logout</a></li>
+            </ul>
+
+   </nav>
+
+<!--start Personal Info-->
+<fieldset >
+    <legend>Personal Information</legend>
+    <p>
+    <label>
+
+<form> 
+<p>
+    <label>
+        Email: 
+        <input type="email" name="txtEmail">
+
+    </label>
+</p>
+<p>
+    <label>
+       <!-- Password field -->
+Password: <input type="password"  id="myInput">
+
+    </label>
+    </p>
+
+    <label>
+        Phone Number: 
+        <input type="tel" name="txtPhone">
+
+    </label>
+</p>
+<p>
+    <label>
+        Address:
+        <input type="tel" name="txtAddress">
+
+    </label>
+</p>
+</fieldset>
+
+
+    &nbsp;&nbsp; Choose Your Faculty:
+    <select name="faculty">
+        <option value="f0">--Select--    
+        </option>
+        <option value="f1">Dentistry       
+        </option>
+        <option value="f2">Computer Science      
+        </option>
+        <option value="f3">Engineering       
+        </option>
+
+    </select>
+</label></p>
+</fieldset>
+</form>
+</section>   
+<hr/>
+<footer>
+ <a href ="http://www.fue.edu.eg" target="_blank">&copy; Future University in Egypt</a>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+ <a href="mailto:20201780@fue.edu.eg">contact us</a>
+</footer>
+</body>
+</html>
